@@ -44,3 +44,4 @@ Thumbs.db
 # =========================
 data/*.out
 scratch.py
+data/out.txt
