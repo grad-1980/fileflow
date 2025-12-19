@@ -1,0 +1,21 @@
+ls -lar /home/ | grep 'chrome_debug'
+ls -lap /home/ | grep 'chrome_debug' JT TJ
+ls -la /home/
+      ls -la /home/gral/ | grep 'chrome_debug'
+   ls -la /home/gral/.config/
+ls -la /home/gral/.config/google-chrome/
+cp plan_ai_developer.xlsx personal_check_list.odt roadmap roadmap_подробно.odt /media/gral/SSD2_39Gb/Обмен/ai_developer/
+cp plan_ai_developer.xlsx personal_check_list.odt roadmap.odt roadmap_подробно.odt /media/gral/SSD2_39Gb/Обмен/ai_developer/
+
+sudo apt-get upgrade  TGERGT
+sudo apt upgrade --fix-missing
+exit
+ls 
+ls Downloads/
+mv ./Downloads/matrix_quarter.png ./Downloads/quarters_matrix.png
+ls Downloads/
+exit
+./clean_ubuntu    RG ESG   GERHJTJT R R R
+sudo snap remove speedtest
+python3     TYJT JTY
+
