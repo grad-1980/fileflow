@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fileflow"
+version = "0.1.0"
+description = "CLI tool for processing text files through a pipeline of processors"
+readme = "README.md"
+requires-python = ">=3.12"
+license = { text = "MIT" }
+authors = [
+  { name = "Alex" }
+]
+dependencies = []
+
+# Creates the `fileflow` command
+[project.scripts]
+fileflow = "fileflow.cli:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
